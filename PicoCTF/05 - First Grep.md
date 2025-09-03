@@ -6,6 +6,6 @@ Solucion
 picoCTF{grep_is_good_to_find_things_f77e0797}
 Notas adicionales
 
-Lo vi de chiripa
+Lo vi de suerte
 Referencias
 Visual code
