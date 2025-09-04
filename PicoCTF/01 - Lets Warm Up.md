@@ -3,7 +3,7 @@ Si te dijera que una palabra comienza con 0x70 en hexadecimal, ¿con que comenza
 
 Solucion
 Use una pagina para convertir de ASCII a texto
-p
+picoCTF{p}
 
 Notas adicionales
 Siempre deben de ponerse las soluciones en le formato solicitado
